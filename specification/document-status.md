@@ -16,7 +16,7 @@ The support guarantees and allowed changes are governed by the lifecycle of the 
 |Stable              |Breaking changes are no longer allowed. See [stability guarantees](versioning-and-stability.md#stable) for details.|
 |Deprecated          |Changes are no longer allowed, except for editorial changes.|
 
-## Feature freeze
+## Feature freeze  !
 
 In addition to the statuses above, documents may be marked as `Feature-freeze`. These documents are not currently accepting new feature requests, to allow the Technical Committee time to focus on other areas of the specification. Editorial changes are still accepted. Changes that address production issues with existing features are still accepted.
 
